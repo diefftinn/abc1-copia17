@@ -1,0 +1,14 @@
+import {Home} from './components/Pages/Home/Home'
+
+
+export const App = () => {
+  
+
+  return (
+    <>
+      <Home/>
+    </>
+  )
+}
+
+export default App
